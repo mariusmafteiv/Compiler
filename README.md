@@ -1,7 +1,7 @@
 # Design an original programming language using YACC.
 
 <ol>
-  (**3.5pt**)  Your language should should include
+  <li>Your language should should include</li>
   <ul>
     <li>type declarations: </li>
     <ul>
