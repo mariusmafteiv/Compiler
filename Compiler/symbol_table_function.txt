@@ -1,0 +1,13 @@
+
+FUNCTIA f - TIP int
+
+FUNCTIA estePrim - TIP bool
+- PARAMETRUL CU NUMELE n DE TIPUL int
+
+FUNCTIA ion - TIP int
+
+FUNCTIA ada - TIP void
+
+FUNCTIA suma - TIP void
+- PARAMETRUL CU NUMELE b DE TIPUL int
+- PARAMETRUL CU NUMELE a DE TIPUL int

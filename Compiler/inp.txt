@@ -1,0 +1,76 @@
+class hello
+{
+private : int x;
+
+int member;
+
+}
+
+int suma(int a, int b){
+int sm;
+return sm;
+}
+
+void ada();
+
+int ion();
+
+bool estePrim(int n);
+
+ 
+char str;
+char myChar;
+int ds[10];
+int f() ;
+bool c;
+const int d;
+int calc;
+
+{
+
+ char myChar;
+  int b;
+  if ( b > 10 ){ 
+	b := 3;
+  } else {
+  	b := 20;
+  }
+  b := b + 10;
+  int k;
+  while ( k > 10 ){
+	k := k - 1;
+  }
+  int i; 
+  int aux;
+  for ( i := 1; i <= n; i := i + 1 ){
+	aux := aux + 1;
+  }
+  b := 10;
+  int ww;
+  ww := 5;
+  if ( b>5 && ww<=b || 2>3 ){
+  	b:=33;
+  }
+  calc := 2 + 3 - 5;
+  char str;
+  
+  myChar ::= "anaaremere";
+  char copie;
+  copie ::= myChar;
+  char propozitie;
+  propozitie ::= "ana are 2 mere";
+
+
+  int dublura;  
+  
+  
+  int x;
+  x := strlen("anaaremere");
+  y := strlen("ana");
+  
+  int int_error;
+  char str_error;
+  
+  Eval(2 + 3 * 4 - 5);
+
+}

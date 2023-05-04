@@ -1,0 +1,70 @@
+
+NUME str_error - TIP string 
+
+NUME int_error - TIP int 
+
+VARIABILA y = VALOAREA 3
+
+VARIABILA x = VALOAREA 10
+
+NUME x - TIP int 
+
+NUME dublura - TIP int 
+
+VARIABILA propozitie = VALOAREA "ana are 2 mere"
+
+NUME propozitie - TIP string 
+
+VARIABILA copie = VALOAREA "anaaremere"
+
+NUME copie - TIP string 
+
+VARIABILA myChar = VALOAREA "anaaremere"
+
+NUME str - TIP string 
+
+VARIABILA calc = VALOAREA 0
+
+VARIABILA b = VALOAREA 33
+
+VARIABILA ww = VALOAREA 5
+
+NUME ww - TIP int 
+
+VARIABILA b = VALOAREA 10
+
+VARIABILA aux = VALOAREA 1
+
+NUME aux - TIP int 
+
+NUME i - TIP int 
+
+VARIABILA k = VALOAREA -1
+
+NUME k - TIP int 
+
+VARIABILA b = VALOAREA 30
+
+VARIABILA b = VALOAREA 20
+
+VARIABILA b = VALOAREA 3
+
+NUME b - TIP int 
+
+NUME myChar - TIP string 
+
+NUME calc - TIP int 
+
+NUME d - TIP int 
+
+NUME c - TIP bool 
+
+NUME myChar - TIP string 
+
+NUME str - TIP string 
+
+NUME sm - TIP int 
+
+NUME member - TIP int 
+
+NUME x - TIP int 
